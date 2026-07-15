@@ -7,6 +7,6 @@ public class que18 {
         System.out.println("Enter the size of array : ");
         int n = sc.nextInt();
 
-        for
+        for()
     }
 }
