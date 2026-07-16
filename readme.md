@@ -20,64 +20,124 @@ This repository contains solutions to **50 Java programming questions** that are
 10. GCD of Two Numbers → `que_10_GCD.java`
 11. LCM of Two Numbers → `que_11_LCM.java`
 12. Check Leap Year → `que_12_LeapYear.java`
-13. Count Number of Digits → `que_13_CountDigits.java`
-14. Power of a Number → `que_14_PowerOfNumber.java`
-15. Decimal to Binary → `que_15_DecimalToBinary.java`
-16. Binary to Decimal → `que_16_BinaryToDecimal.java`
-17. Check Perfect Number → `que_17_PerfectNumber.java`
-18. Strong Number → `que_18_StrongNumber.java`
-19. Sum of Prime Numbers up to N → `que_19_SumPrimeNumbers.java`
 
 ---
 
 ## 🔤 String Programs
 
-20. Count Vowels and Consonants → `que_20_CountVowelsConsonants.java`
-21. Reverse a String → `que_21_ReverseString.java`
-22. Check Anagram → `que_22_CheckAnagram.java`
-23. Remove Duplicates from String → `que_23_RemoveDuplicatesString.java`
-24. Count Words in a String → `que_24_CountWords.java`
-25. Remove All Spaces from String → `que_25_RemoveSpaces.java`
-26. Check Palindrome String → `que_26_PalindromeString.java`
-27. Check Substring → `que_27_CheckSubstring.java`
-28. Remove Specific Character from String → `que_28_RemoveCharacter.java`
-29. Reverse Words in a Sentence → `que_29_ReverseWords.java`
+13. Count Vowels and Consonants → `que_13_CountVowelsConsonants.java`
+14. Reverse a String → `que_14_ReverseString.java`
+15. Check Anagram → `que_15_CheckAnagram.java`
+16. Remove Duplicates from String → `que_16_RemoveDuplicatesString.java`
 
 ---
 
 ## 📊 Array Programs
 
-30. Find Second Largest in Array → `que_30_SecondLargest.java`
-31. Linear Search → `que_31_LinearSearch.java`
-32. Binary Search (Sorted Array) → `que_32_BinarySearch.java`
-33. Bubble Sort → `que_33_BubbleSort.java`
-34. Selection Sort → `que_34_SelectionSort.java`
-35. Insertion Sort → `que_35_InsertionSort.java`
-36. Count Frequency of Element in Array → `que_36_CountFrequency.java`
-37. Check if Array is Sorted → `que_37_CheckArraySorted.java`
-38. Merge Two Arrays → `que_38_MergeArrays.java`
-39. Find Missing Number (1 to N) → `que_39_MissingNumber.java`
-40. Find Duplicate Elements in Array → `que_40_FindDuplicates.java`
-41. Move All Zeros to End → `que_41_MoveZerosToEnd.java`
-42. Rotate Array Right by 1 Position → `que_42_RotateArrayRight.java`
-43. Sum of Elements in Array → `que_43_SumArrayElements.java`
-44. Find Minimum Element in Array → `que_44_MinimumElement.java`
-45. Count Even and Odd Numbers in Array → `que_45_CountEvenOddArray.java`
-46. Find Intersection of Two Arrays → `que_46_ArrayIntersection.java`
-47. Two Sum Problem → `que_47_TwoSum.java`
+17. Find Second Largest in Array → `que_17_SecondLargest.java`
+18. Linear Search → `que_18_LinearSearch.java`
+19. Binary Search (Sorted Array) → `que_19_BinarySearch.java`
+20. Bubble Sort → `que_20_BubbleSort.java`
+21. Selection Sort → `que_21_SelectionSort.java`
+22. Insertion Sort → `que_22_InsertionSort.java`
 
 ---
 
 ## 🧮 Matrix Programs
 
-48. Matrix Addition → `que_48_MatrixAddition.java`
-49. Transpose of Matrix → `que_49_MatrixTranspose.java`
+23. Matrix Addition → `que_23_MatrixAddition.java`
+24. Transpose of Matrix → `que_24_MatrixTranspose.java`
+
+---
+
+## 📊 Array Programs (Continued)
+
+25. Count Frequency of Element in Array → `que_25_CountFrequency.java`
+26. Check if Array is Sorted → `que_26_CheckArraySorted.java`
+27. Merge Two Arrays → `que_27_MergeArrays.java`
+28. Find Missing Number (1 to N) → `que_28_MissingNumber.java`
+
+---
+
+## 🔤 String Programs (Continued)
+
+29. Count Words in a String → `que_29_CountWords.java`
+30. Remove All Spaces from String → `que_30_RemoveSpaces.java`
+
+---
+
+## 📊 Array Programs (Continued)
+
+31. Find Duplicate Elements in Array → `que_31_FindDuplicates.java`
+32. Move All Zeros to End → `que_32_MoveZerosToEnd.java`
+33. Rotate Array Right by 1 Position → `que_33_RotateArrayRight.java`
+
+---
+
+## 🔤 String Programs (Continued)
+
+34. Check Palindrome String → `que_34_PalindromeString.java`
+
+---
+
+## 🔢 Number Programs (Continued)
+
+35. Count Number of Digits → `que_35_CountDigits.java`
+
+---
+
+## 📊 Array Programs (Continued)
+
+36. Sum of Elements in Array → `que_36_SumArrayElements.java`
+37. Find Minimum Element in Array → `que_37_MinimumElement.java`
 
 ---
 
 ## ⭐ Pattern Programs
 
-50. Pattern Printing (Right Triangle) → `que_50_RightTrianglePattern.java`
+38. Pattern Printing (Right Triangle) → `que_38_RightTrianglePattern.java`
+
+---
+
+## 🔢 Number Programs (Continued)
+
+39. Power of a Number → `que_39_PowerOfNumber.java`
+40. Decimal to Binary → `que_40_DecimalToBinary.java`
+41. Binary to Decimal → `que_41_BinaryToDecimal.java`
+42. Check Perfect Number → `que_42_PerfectNumber.java`
+43. Strong Number → `que_43_StrongNumber.java`
+
+---
+
+## 📊 Array Programs (Continued)
+
+44. Count Even and Odd Numbers in Array → `que_44_CountEvenOddArray.java`
+45. Find Intersection of Two Arrays → `que_45_ArrayIntersection.java`
+
+---
+
+## 🔤 String Programs (Continued)
+
+46. Check Substring → `que_46_CheckSubstring.java`
+47. Remove Specific Character from String → `que_47_RemoveCharacter.java`
+
+---
+
+## 🔢 Number Programs (Continued)
+
+48. Sum of Prime Numbers up to N → `que_48_SumPrimeNumbers.java`
+
+---
+
+## 🔤 String Programs (Continued)
+
+49. Reverse Words in a Sentence → `que_49_ReverseWords.java`
+
+---
+
+## 📊 Array Programs (Continued)
+
+50. Two Sum Problem → `que_50_TwoSum.java`
 
 ---
 
@@ -98,45 +158,45 @@ Java-Programming-Questions/
 ├── que_10_GCD.java
 ├── que_11_LCM.java
 ├── que_12_LeapYear.java
-├── que_13_CountDigits.java
-├── que_14_PowerOfNumber.java
-├── que_15_DecimalToBinary.java
-├── que_16_BinaryToDecimal.java
-├── que_17_PerfectNumber.java
-├── que_18_StrongNumber.java
-├── que_19_SumPrimeNumbers.java
-├── que_20_CountVowelsConsonants.java
-├── que_21_ReverseString.java
-├── que_22_CheckAnagram.java
-├── que_23_RemoveDuplicatesString.java
-├── que_24_CountWords.java
-├── que_25_RemoveSpaces.java
-├── que_26_PalindromeString.java
-├── que_27_CheckSubstring.java
-├── que_28_RemoveCharacter.java
-├── que_29_ReverseWords.java
-├── que_30_SecondLargest.java
-├── que_31_LinearSearch.java
-├── que_32_BinarySearch.java
-├── que_33_BubbleSort.java
-├── que_34_SelectionSort.java
-├── que_35_InsertionSort.java
-├── que_36_CountFrequency.java
-├── que_37_CheckArraySorted.java
-├── que_38_MergeArrays.java
-├── que_39_MissingNumber.java
-├── que_40_FindDuplicates.java
-├── que_41_MoveZerosToEnd.java
-├── que_42_RotateArrayRight.java
-├── que_43_SumArrayElements.java
-├── que_44_MinimumElement.java
-├── que_45_CountEvenOddArray.java
-├── que_46_ArrayIntersection.java
-├── que_47_TwoSum.java
-├── que_48_MatrixAddition.java
-├── que_49_MatrixTranspose.java
-├── que_50_RightTrianglePattern.java
+├── que_13_CountVowelsConsonants.java
+├── que_14_ReverseString.java
+├── que_15_CheckAnagram.java
+├── que_16_RemoveDuplicatesString.java
+├── que_17_SecondLargest.java
+├── que_18_LinearSearch.java
+├── que_19_BinarySearch.java
+├── que_20_BubbleSort.java
+├── que_21_SelectionSort.java
+├── que_22_InsertionSort.java
+├── que_23_MatrixAddition.java
+├── que_24_MatrixTranspose.java
+├── que_25_CountFrequency.java
+├── que_26_CheckArraySorted.java
+├── que_27_MergeArrays.java
+├── que_28_MissingNumber.java
+├── que_29_CountWords.java
+├── que_30_RemoveSpaces.java
+├── que_31_FindDuplicates.java
+├── que_32_MoveZerosToEnd.java
+├── que_33_RotateArrayRight.java
+├── que_34_PalindromeString.java
+├── que_35_CountDigits.java
+├── que_36_SumArrayElements.java
+├── que_37_MinimumElement.java
+├── que_38_RightTrianglePattern.java
+├── que_39_PowerOfNumber.java
+├── que_40_DecimalToBinary.java
+├── que_41_BinaryToDecimal.java
+├── que_42_PerfectNumber.java
+├── que_43_StrongNumber.java
+├── que_44_CountEvenOddArray.java
+├── que_45_ArrayIntersection.java
+├── que_46_CheckSubstring.java
+├── que_47_RemoveCharacter.java
+├── que_48_SumPrimeNumbers.java
+├── que_49_ReverseWords.java
+├── que_50_TwoSum.java
 └── README.md
 ```
 
-> **Note:** Since Java class names cannot start with a number, keep the **class names** as `EvenOdd`, `PrimeNumber`, etc., and only use the `que_01_` prefix for the **file names** if the class is **not public**. If your classes are `public`, the filename must exactly match the public class name (e.g., `EvenOdd.java`).
+> **Note:** Since Java class names cannot start with a number, keep the **class names** as `EvenOdd`, `PrimeNumber`, `Factorial`, etc. The `que_01_`, `que_02_`, … `que_50_` prefixes should be used only in the **file names**. If a class is declared `public`, the filename must exactly match the public class name (for example, `EvenOdd.java`).
