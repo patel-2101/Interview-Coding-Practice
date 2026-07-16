@@ -181,7 +181,7 @@ Java-Programming-Questions/
 ├── que_33_RotateArrayRight.java
 ├── que_34_PalindromeString.java
 ├── que_35_CountDigits.java
-├── que_36_SumArrayElements.java
+├── que_36_SumArrayElements.javaque_26_CheckArraySorted.java
 ├── que_37_MinimumElement.java
 ├── que_38_RightTrianglePattern.java
 ├── que_39_PowerOfNumber.java
